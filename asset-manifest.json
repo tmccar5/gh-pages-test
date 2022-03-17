@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-pages-test/static/css/main.6fc693e4.css",
+    "main.js": "/gh-pages-test/static/js/main.df003456.js",
+    "index.html": "/gh-pages-test/index.html",
+    "main.6fc693e4.css.map": "/gh-pages-test/static/css/main.6fc693e4.css.map",
+    "main.df003456.js.map": "/gh-pages-test/static/js/main.df003456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc693e4.css",
+    "static/js/main.df003456.js"
+  ]
+}
